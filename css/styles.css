@@ -1,14 +1,22 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
 .top {
-  background-color: #EAE0DA;
+  background-color: #93BFCF;
   position: relative;
   padding-top: 100px;
 }
 h1 {
   margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
 }
 .top-cloud {
   position: absolute;
